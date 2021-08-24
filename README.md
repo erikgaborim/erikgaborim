@@ -7,7 +7,7 @@
 - 👨‍🎓 I'm a high school student
 - 💻 Focused on Web Development
 - 📖 Taking computing course at IFMS - 6th semester
-- 🖥️ Currently working at [MOON Startup](https://github.com/ModularS "MOON's profile") and the technology development project My Harmony
+- 🖥️ Currently working at [Asterisk Code](https://github.com/asterisk-code) and the technology development project My Harmony
 
 </br>
 
