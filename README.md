@@ -6,8 +6,8 @@
 - 🇧🇷 I live in Brazil
 - 👨‍🎓 I'm a high school student
 - 💻 Focused on Web Development
-- 📖 Taking computing course at IFMS - 6th semester
-- 🖥️ Currently working at [Asterisk Code](https://github.com/asterisk-code) and the technology development project My Harmony
+- 🖥️ Currently working at [Asterisk Code](https://github.com/asterisk-code)
+- 📖 Taking computing course at IFMS - 7th semester
 
 </br>
 
