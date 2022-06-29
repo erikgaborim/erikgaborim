@@ -12,7 +12,9 @@
 </br>
 
 <div align="center">
-    <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=erikgaborim&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
+    <img height="165px" width="50%" src="https://github-readme-stats.vercel.app/api?username=erikgaborim&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikgaborim&layout=compact&theme=react"/>
 </div>
 
 ### Technologies of interest
