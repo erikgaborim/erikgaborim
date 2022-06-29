@@ -3,11 +3,11 @@
 
 ### About me 
 
-- 🇧🇷 I live in Brazil
-- 👨‍🎓 I'm a high school student
-- 💻 Focused on Web Development
-- 🖥️ Currently working at [Asterisk Code](https://github.com/asterisk-code)
-- 📖 Taking computing course at IFMS - 7th semester
+- 🇧🇷 Brazilian
+- 🖥️ IT technician
+- 👨‍🎓 Programming student
+- 💻 Focused on Web and Mobile Development
+- :briefcase: Currently working at [Asterisk Code](https://github.com/asterisk-code)
 
 </br>
 
@@ -53,5 +53,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:erikgfp@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/erikgaborim/">
+        <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
