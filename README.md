@@ -5,9 +5,8 @@
 
 - 🇧🇷 Brazilian
 - 🖥️ IT technician
-- 👨‍🎓 Programming student
 - 💻 Focused on Web and Mobile Development
-- :briefcase: Currently working at [Asterisk Code](https://github.com/asterisk-code)
+- 👨‍🎓 Information Systems student at Universidade de São Paulo
 
 </br>
 
