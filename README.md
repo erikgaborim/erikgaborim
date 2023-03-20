@@ -5,7 +5,8 @@
 
 - 🇧🇷 Brazilian
 - 🖥️ IT technician
-- 💻 Focused on Web and Mobile Development
+- 🌐 Focused on Web and Mobile Development
+- 💻 Interested in both Front-End and Back-End
 - 👨‍🎓 Information Systems student at Universidade de São Paulo
 
 </br>
